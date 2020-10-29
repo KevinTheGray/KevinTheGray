@@ -11,7 +11,6 @@ I'm a software engineer at [Very Good Ventures](https://verygood.ventures) in Ne
 
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 - 📱 Also ask me about iOS and Android!  Love working on Flutter plugins.
-- 🎮 Currently playing: *Tony Hawk's Pro Skater 1 And 2 - Remastered*
 - 😄 Pronouns: he/him/his
 
 ### Github Stats
